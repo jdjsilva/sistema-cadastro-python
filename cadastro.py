@@ -1,7 +1,7 @@
 cadastros = []
 
 while True:
-    print("n=== SISTEMA DE CADASTRO")
+    print("\n=== SISTEMA DE CADASTRO ===")
     print("1 - Cadastrar pessoa")
     print("2 - Ver cadastros")
     print("3 - Sair")
